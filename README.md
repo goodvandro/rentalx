@@ -30,7 +30,6 @@ Não deve ser possível cadastrar duas vezes uma especificação para o mesmo ca
 # Cadastro de imagens do carro
 **RF**
 Deve ser possível cadastrar a imagem do carro.
-Deve possível listar todos os carros.
 
 **RNF**
 Utilizar o multer para upload dos arquivos.
