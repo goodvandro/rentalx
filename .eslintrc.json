@@ -82,7 +82,7 @@
       "error",
       {
         "singleQuote": true,
-        "printWidth": 86
+        "printWidth": 90
       }
     ]
   },
