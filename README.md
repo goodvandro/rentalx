@@ -48,6 +48,7 @@ Deve ser possível cadastrar um aluguer.
 O aluguer deve ter duração mínima de 24h.
 Não deve ser possível cadastrar um novo aluguer caso já exista outro aberto para o mesmo carro.
 Não deve ser possível cadastrar um novo aluguer caso já exista outro aberto para o mesmo utilizador.
+O utilizador deve estar autenticado na aplicação
 
 <!-- ------------------------------- -->
 <!-- **RF** => Requisitos funcionais
