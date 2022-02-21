@@ -64,7 +64,12 @@ Caso o horário de devolução seja superior ao horário previsto de entrega, de
 Caso haja multa, deverá ser somado ao total do aluguer.
 O utilizador deve estar autenticado na aplicação
 
+# Listagem de Alugueis para Utilizador
+**RF**
+Deve ser possível realizar a busca de todos os alugueis para o utilizador.
 
+**RN**
+O Utilizador deve estar autenticado na aplicação.
 <!-- ------------------------------- -->
 <!-- **RF** => Requisitos funcionais
 
