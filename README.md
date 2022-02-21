@@ -50,6 +50,20 @@ Não deve ser possível cadastrar um novo aluguer caso já exista outro aberto p
 Não deve ser possível cadastrar um novo aluguer caso já exista outro aberto para o mesmo utilizador.
 O utilizador deve estar autenticado na aplicação
 
+# Devolução de Carro
+**RF**
+Deve ser possível realizar a devolução de carro.
+
+**RN**
+Se o carro for devolvido com menos de 24 hours, deverá ser cobrado diária completa.
+Ao realizar a devolução, o carro deverá ser liberado para outro aluguer.
+Ao realizar a devolução, o utilizador deverá ser liberado para outro aluguer.
+Ao realizar o devolução, deverá ser calculado o total do aluguer.
+Caso o horário de devolução seja superior ao horário previsto de entrega, deverá ser cobrado multa proporcional aos dias de atraso.
+Caso haja multa, deverá ser somado ao total do aluguer.
+O utilizador deve estar autenticado na aplicação
+
+
 <!-- ------------------------------- -->
 <!-- **RF** => Requisitos funcionais
 
