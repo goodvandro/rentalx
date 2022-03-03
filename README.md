@@ -70,6 +70,16 @@ Deve ser possível realizar a busca de todos os alugueis para o utilizador.
 
 **RN**
 O Utilizador deve estar autenticado na aplicação.
+
+# Recuperar Senha
+**RF**
+- Deve ser possível o utilizador recuperar a senha informando o email.
+- O utilizador deve receber um e-mail com passo a passo para recuperação da senha.
+- O utilizador deve conseguir inserir uma nova senha.
+
+**RN**
+- O utilizador precisa informar uma nova senha.
+- O link enviado para recuperação deve expirar em 3 horas.
 <!-- ------------------------------- -->
 <!-- **RF** => Requisitos funcionais
 
