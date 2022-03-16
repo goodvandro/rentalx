@@ -12,7 +12,7 @@ import { Connection, createConnection, getConnectionOptions } from 'typeorm';
 //   });
 // });
 
-export default async (host = '172.20.0.2'): Promise<Connection> => {
+export default async (host = 'database_ignite'): Promise<Connection> => {
   const defaultOptions = await getConnectionOptions();
 
   return createConnection(
