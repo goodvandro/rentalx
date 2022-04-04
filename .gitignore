@@ -6,4 +6,4 @@
 /coverage
 
 # Others
-.env
+/.env
