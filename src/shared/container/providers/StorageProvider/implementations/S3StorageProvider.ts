@@ -1,4 +1,4 @@
-import { S3, config } from 'aws-sdk';
+import { S3 } from 'aws-sdk';
 import fs from 'fs';
 import mime from 'mime';
 import { resolve } from 'path';
